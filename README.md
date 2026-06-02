@@ -1,9 +1,17 @@
-# Hey, I'm Abhishek Dwivedi 👋
+<h1 align="center">Hi 👋, I'm Abhishek Dwivedi</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer | System Design Enthusiast</h3>
+<h3 align="center">
+Software Engineer | Full Stack Developer | Cloud Enthusiast
+</h3>
 
 <p align="center">
-Building scalable products, real-time systems, and cloud-native applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;Building+Scalable+Applications;AWS+Cloud+Practitioner;Real-Time+Systems+Developer" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Abhishek-DVD">
+<img src="https://komarev.com/ghpvc/?username=Abhishek-DVD&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</a>
 </p>
 
 ---
@@ -20,37 +28,13 @@ Building scalable products, real-time systems, and cloud-native applications.
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Arsenal
 
-### Frontend
+<p align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=react,redux,js,nodejs,express,mongodb,aws,git,github,linux,vscode,html,css" />
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socketdotio)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-
-### Learning
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apachekafka)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
+</p>
 
 ---
 
@@ -138,15 +122,19 @@ https://personal-portfolio-alpha-three-24.vercel.app/
 
 ---
 
-## 🎯 Current Focus
+## 🏗 Engineering Interests
 
-```txt
-Building Connectify v2
-Learning Kafka & Event-Driven Systems
-Exploring Distributed Architectures
-Improving System Design Skills
-Preparing for High-Impact Engineering Roles
-```
+⚡ Full Stack Development
+
+☁ Cloud Deployments
+
+📡 Real-Time Applications
+
+🔄 Distributed Systems
+
+📦 Scalable Backend Architectures
+
+🚀 Product Development
 
 ---
 
