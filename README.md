@@ -103,16 +103,6 @@ https://personal-portfolio-alpha-three-24.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-DVD&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-DVD&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
